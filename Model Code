@@ -1,0 +1,4 @@
+First, we calculate the distribution:
+install.packages("rriskDistributions")
+library(rriskDistributions)
+res1<-fit.cont(data2fit=)
